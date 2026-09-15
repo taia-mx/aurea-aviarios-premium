@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aurea-aviarios-demo.liderazgoyexperienci.chatgpt.site/sitemap.xml
