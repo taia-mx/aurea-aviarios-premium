@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function NotFound() { return <main className="grid min-h-screen place-items-center bg-[#f4f1ea] p-6 text-center"><div><p className="font-sans text-xs uppercase tracking-[.24em] text-[#76806d]">Aurea Aviarios</p><h1 className="mt-4 font-serif text-5xl text-[#1e2923]">Parece que esta página salió volando.</h1><Link className="btn-primary mt-8" href="/tienda">Volver a la tienda</Link></div></main>; }
